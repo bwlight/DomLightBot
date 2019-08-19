@@ -11,4 +11,4 @@ client.on("message", (message) => {
   }
 });
  
-client.login(EUxbS-DcEkWCt40DMYUG1VL1McxClMaw);
+client.login("EUxbS-DcEkWCt40DMYUG1VL1McxClMaw");
