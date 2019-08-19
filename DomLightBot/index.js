@@ -11,4 +11,4 @@ bot.on("message", (message) => {
   }
 });
 
-bot.login("TCiZk-KMM15yPQDQVTZgLcuuoyt9A4rc");
+bot.login(TCiZk-KMM15yPQDQVTZgLcuuoyt9A4rc);
